@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ header {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     border: 5px dashed;
+    
+  }
+  
+  .lista-item{
+   display: flexbox;
+   margin: 0 16px;
+ }
+ 
+ .escola{
+   color: rgb(0, 0, 0);
+ }
+ 
+ .estudante{
+   color: rgb(0, 0, 0) ;
+ }
+  body{
+     background-image: linear-gradient(rgb(4, 0, 255), rgb(14, 71, 7));
+     }
+  
+     h1 {color: rgb(255, 255, 255);
+       font-size: 40px
+       font-family: 'Tilt Prism', cursive;
+  }
+  
+  P{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+   
+  }
+  .site{
+    color:rgb(0, 0, 0) ;
+ }
+ h2{
+   text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+
+    
+  }
