@@ -6,10 +6,13 @@
      display: flex;
      justify-content: space-around;
      align-items: center;
-     background-image: linear-gradient( to right rgb(4, 0, 255), rgb(14, 71, 7));
-     border: 16px solid;
+     background-color: rgba(4, 72, 161, 0.89);
+     border: 6px solid;
   }
-  
+  .introdução{
+padding: 16px 16px;
+
+  }
   .lista-item{
    display: flexbox;
    margin: 0 16px;
@@ -23,7 +26,7 @@
    color: rgb(0, 0, 0) ;
  }
   body{
-     background-image: linear-gradient(rgb(4, 0, 255), rgb(14, 71, 7));
+     background-image: linear-gradient(rgb(4, 0, 255), rgb(19, 129, 4));
      }
   
      h1 {color: rgb(255, 255, 255);
@@ -44,5 +47,5 @@
     color: rgb(255, 255, 255);
     font-size: 35px;
 
-    
+  
   }
