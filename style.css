@@ -2,9 +2,7 @@
     margin: 0;
     padding: 0;
  }
- .corpo-site{
-  background-image: linear-gradient(rgb(167, 8, 8), rgb(255 118 101);
-   }
+ 
 
    .cabecalho{
     display: flex;
@@ -28,6 +26,9 @@
    .item-lista{
 
    }
+   .corpo-site{
+    background-image: linear-gradient(rgb(167, 8, 8), rgb(255 118 101);
+     }
 
    .titulo{ 
     text-align: center;
