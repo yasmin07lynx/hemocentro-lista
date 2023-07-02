@@ -1,4 +1,4 @@
-**{
+*{
   margin: 0;
   padding: 0;
 }
@@ -9,6 +9,10 @@
   justify-content: space-around;
   align-items: center;
  }
+ .corpo-site{
+  background-image: linear-gradient(rgb(167, 8, 8), rgb(255 118 101));
+  }
+
 
  .titulo-1{
   text-align: center;
@@ -19,6 +23,7 @@ font-family: 'Tilt Prism', cursive;
 font-family: 'Festive', cursive;
 font-family: 'Tilt Prism', cursive;
  }
+
  
  .lista-item{ 
   display: flexbox;
@@ -29,10 +34,7 @@ font-family: 'Tilt Prism', cursive;
  .item-lista{
 
  }
- .corpo-site{
-  background-image:linear-gradient (rgb(167, 8, 8), rgb(255 118 101));
-   }
-
+ 
  .titulo{ 
   text-align: center;
   color: rgb(255, 255, 255);
