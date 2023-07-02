@@ -25,7 +25,7 @@ font-family: 'Tilt Prism', cursive;
  .lista-item{ 
   display: flexbox;
   margin: 0 16px;
-  color:rgb(159 159 159);
+  color:rgb(0, 0, 0);
  }
 
  .item-lista{
