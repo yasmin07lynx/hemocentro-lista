@@ -1,47 +1,41 @@
-*{
-    margin: 0;
-    padding: 0;
+**{
+  margin: 0;
+  padding: 0;
+}
+
+
+ .cabecalho{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ }
+
+ .titulo-1{
+  text-align: center;
+color: rgb(255, 255, 255);
+font-size: 35px;
+border: 5px double black;
+font-family: 'Tilt Prism', cursive;
+font-family: 'Festive', cursive;
+font-family: 'Tilt Prism', cursive;
  }
  
+ .lista-item{ 
+  display: flexbox;
+  margin: 0 16px;
+  color:rgb(159 159 159);
+ }
 
-   .cabecalho{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border: 5px dashed;
+ .item-lista{
+
+ }
+ .corpo-site{
+  background-image:linear-gradient (rgb(167, 8, 8), rgb(255 118 101));
    }
 
-   .titulo-1{
-    color: rgb(172 172 172);
-    font-size: 40px
-
-   }
-   
-   .lista-item{ 
-    display: flexbox;
-    margin: 0 16px;
-    color:rgb(159 159 159);
-   }
-
-   .item-lista{
-
-   }
-   .corpo-site{
-    background-image: linear-gradient (rgb(167, 8, 8), rgb(255 118 101));
-     }
-
-   .titulo{ 
-    text-align: center;
-    color: rgb(255, 255, 255);
-    font-size: 35px;
-    border: 5px double black;
-   }
-
-   .lista-doar{
-
-   }
-
-   .item-doar{
-
-   }
-   
+ .titulo{ 
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 35px;
+  border: 5px double black;
+ }
